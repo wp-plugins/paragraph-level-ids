@@ -1,0 +1,7 @@
+.rs-anchor {
+	color: #777;
+	display: none;
+}
+.rs-highlight.rs-active {
+	background: #ffc;
+}
